@@ -1,0 +1,58 @@
+body {
+    display: flex;
+    padding: 10px;
+    margin: 100px;
+  
+    font-weight: bolder;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    max-width: 700px;
+}
+#heading {
+    font-size: 4vh;
+    font-weight:bold;
+
+}
+
+img[alt="newYorkflag"]{
+    height: 20px;
+    width: 50px;
+    justify-content: center;
+    align-items: center;
+ }
+ img[alt="californiaflag"] {
+    height: 20px;
+    width: 50px;
+    justify-content: center;
+    border: black;
+ }
+ img[alt= "illinoisFlag" ] {
+    height: 20px;
+    width: 50px;
+ }
+ img[alt="TexasFlag" ] {
+    height: 20px;
+    width: 50px;
+ }
+ td {
+    border-color: black;
+    text-align: center;
+    align-items: center;
+    padding: 30px;
+    margin: 10px;
+    color: blue;
+    font-weight: 50%;
+    font-size: x-large ;
+    background-color: antiquewhite;
+ }
+ tr{
+    border:10px solid black;
+ }
+ .number {
+    color: black;
+ }
+ tr,th,td {
+    border: 1px solid grey;
+    
+ }
